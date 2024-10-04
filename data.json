@@ -1,0 +1,111 @@
+{
+  "ticktock": 5,
+  "alwaysdisplay":true,
+  "intervals": [
+    {
+      "totalPip": 25,
+      "totalTime": 30,
+      "karmaSymbol": 1,
+      "karmaReinforced": true,
+      "maxKarma":10
+    },
+    {
+      "totalPip": 25,
+      "totalTime": 1500,
+      "karmaSymbol": 2,
+      "karmaReinforced": true,
+      "maxKarma":10
+    },
+    {
+      "totalPip": 10,
+      "totalTime": 300,
+      "karmaSymbol": 0,
+      "maxKarma": 10
+    },
+    {
+      "totalPip": 25,
+      "totalTime": 1500,
+      "karmaSymbol": 3,
+      "karmaReinforced": true,
+      "maxKarma":10
+    },
+    {
+      "totalPip": 10,
+      "totalTime": 300,
+      "karmaSymbol": 0,
+      "maxKarma": 10
+    }, 
+    {
+      "totalPip": 25,
+      "totalTime": 1500,
+      "karmaSymbol": 4,
+      "karmaReinforced": true,
+      "maxKarma":10
+    },
+    {
+      "totalPip": 10,
+      "totalTime": 300,
+      "karmaSymbol": 0,
+      "maxKarma": 10
+    },
+    {
+      "totalPip": 25,
+      "totalTime": 1500,
+      "karmaSymbol": 5,
+      "karmaReinforced": true,
+      "maxKarma":10
+    },
+    {
+      "totalPip": 25,
+      "totalTime": 1500,
+      "karmaSymbol": 0,
+      "maxKarma": 10
+    },
+    {
+      "totalPip": 25,
+      "totalTime": 1500,
+      "karmaSymbol": 6,
+      "karmaReinforced": true,
+      "maxKarma":10
+    },
+    {
+      "totalPip": 10,
+      "totalTime": 300,
+      "karmaSymbol": 0,
+      "maxKarma": 10
+    },
+    {
+      "totalPip": 25,
+      "totalTime": 1500,
+      "karmaSymbol": 7,
+      "karmaReinforced": true,
+      "maxKarma":10
+    },
+    {
+      "totalPip": 10,
+      "totalTime": 300,
+      "karmaSymbol": 0,
+      "maxKarma": 10
+    }, 
+    {
+      "totalPip": 25,
+      "totalTime": 1500,
+      "karmaSymbol": 8,
+      "karmaReinforced": true,
+      "maxKarma":10
+    },
+    {
+      "totalPip": 10,
+      "totalTime": 300,
+      "karmaSymbol": 0,
+      "maxKarma": 10
+    }, 
+    {
+      "totalPip": 25,
+      "totalTime": 1500,
+      "karmaSymbol": 9,
+      "karmaReinforced": true,
+      "maxKarma":10
+    }
+  ]
+}
