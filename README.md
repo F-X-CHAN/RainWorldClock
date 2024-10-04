@@ -1,6 +1,6 @@
 # RainWorldClock
 
-Recreates the cycle clock in the game Rain World. That's a pretty cool game.
+Recreates the cycle clock in the game [Rain World](https://rainworldgame.com/). If you haven't played it, go check it out!
 
 Forked from Trebor-Huang/clock project and adapted to Win. He/She has done great job.
 
@@ -24,7 +24,7 @@ The behaviour of clock is determined by `data.json`
 By default, a tomato clock is defined with 25min-5min cycles.
 
 An example is like below (the comments are not valid JSON, they are for demo purposes only)
-`
+```
 {
   "ticktock": 3.2,  // seconds between tick and tock
   "intervals": [{
@@ -39,4 +39,6 @@ An example is like below (the comments are not valid JSON, they are for demo pur
     "maxKarma": 9  // max karma (7-10) must be specified if karmaSymbol > 5.
   }]
 }
-`
+```
+
+The sound effects come from [this repo](https://github.com/cookiecaker/Rain-World-Sounds) and are properties of the Rain World developers. All png files in the repo come from the [rain world wiki](https://rainworld.miraheze.org/wiki/Category:Karma_icons), see copyright notices there. The rest are shared under the MIT License.
